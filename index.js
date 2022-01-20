@@ -1,3 +1,5 @@
+/// sync
+
 const fs = require('fs')
 
 function readFile(){
@@ -6,6 +8,8 @@ function readFile(){
 }
 readFile()
 //----------------------------------------------------
+
+/// async
 const fs = require("fs");
 function dataFile() {
   fs.readFile("data.json", "utf-8", (err, data) => {
