@@ -1,0 +1,6 @@
+[
+    { "carModel": "Toyota", "carColor": "blue"},
+    { "carModel": "Audi", "carColor": "white"},
+    { "carModel": "BMW", "carColor": "black"},
+    { "carModel": "Lexus", "carColor": "grey"}
+]
